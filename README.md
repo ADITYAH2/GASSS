@@ -45,7 +45,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ## _VIDEO TAMPILAN_
 https://user-images.githubusercontent.com/76270969/135847792-c0095f95-edda-4937-b4f0-73dfeb20d5ea.mp4
 
-## _TAMPANK DEPAN_
+## _TAMPAK DEPAN_
 ![IMG_20211004_195057](https://user-images.githubusercontent.com/76270969/135847081-22c7d870-d3f4-424b-ba4a-6538d6d50af7.jpg)
 
 ## _SYSTEM MENU_
